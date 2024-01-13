@@ -19,7 +19,7 @@ This project creates a dynamic waveform display that visualizes audio captured f
 1. Run the Python script:
 
    ```bash
-   python pyshine.py
+   python main.py
    ```
 
 2. Allow microphone access and make sure that input and output devices are connected.
