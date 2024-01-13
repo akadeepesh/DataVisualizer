@@ -40,3 +40,8 @@ This project creates a dynamic waveform display that visualizes audio captured f
 
 - **Audio Settings:** Adjust the audio device, channels, and sampling rate in the code.
 - **Visualization:** Explore different plot styles, colors, and grid options in Matplotlib.
+
+## Refrencce
+
+- [**Sound Device Documentation**](https://python-sounddevice.readthedocs.io/en/0.4.6/examples.html#plot-microphone-signal-s-in-real-time)
+- **Official Library Code on github** - [Plot Microphone Signal(s) in Real-Time](https://github.com/spatialaudio/python-sounddevice/blob/0.4.6/examples/plot_input.py)
