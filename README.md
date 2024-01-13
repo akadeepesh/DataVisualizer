@@ -8,9 +8,11 @@ This project creates a dynamic waveform display that visualizes audio captured f
 
 ## Installation
 
-1. Install required libraries:
+1. Install required libraries in an virtual environment:
 
    ```bash
+   python -m venv venv;
+   .\venv\Scripts\activate;
    pip install sounddevice numpy matplotlib
    ```
 
